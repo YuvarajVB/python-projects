@@ -1,0 +1,6 @@
+name=input("Enter your number")
+firstno=input("Enter your first number")
+secondno=input("Enter your second number")
+print(name)
+print(firstno)
+print(secndno)
